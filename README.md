@@ -6,7 +6,7 @@ Me chamo Anne Caroline Pinho Valentim, sou graduada em Sistemas de Informação,
 
 Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift (SwiftUI + UIKit) e Kotlin, aplicação de arquiteturas como MVC e MVVM, uso de banco de dados locais com Room, gerenciamento de pacotes (Swift Package Manager + CocoaPods), e controle de versão com Git. Também possuo experiência com desenvolvimento web (Angular) e familiaridade com metodologias ágeis como SCRUM e KANBAN.
 
-<h3 align="left">Conecte comigo!</h3>
+<h3 align="left">Connect with me!</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/annepinho/" target="_blank">
@@ -21,27 +21,27 @@ Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift 
 </div>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="80" alt="kotlin logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="80" alt="swift logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="80" alt="angularjs logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="80" alt="github logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="80" alt="jira logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="80" alt="apple logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="80" alt="android logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="80" alt="androidstudio logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="80" alt="xcode logo"  />
 </div>
 
 <br/>
