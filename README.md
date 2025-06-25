@@ -1,12 +1,12 @@
 # 👩🏻‍💻 Anne Pinho
 
-**`Desenvolvedora de Software`**
+<h3>Desenvolvedora de Software</h3>
 
 Me chamo Anne Caroline Pinho Valentim, sou graduada em Sistemas de Informação, atuo como desenvolvedora de software com foco em aplicações mobile nativas para Android e iOS. Tenho experiência com Kotlin, Java, Swift, SwiftUI e UIKit, além de projetos web utilizando Angular.
 
 Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift (SwiftUI + UIKit) e Kotlin, aplicação de arquiteturas como MVC e MVVM, uso de banco de dados locais com Room, gerenciamento de pacotes (Swift Package Manager + CocoaPods), e controle de versão com Git. Também possuo experiência com desenvolvimento web (Angular) e familiaridade com metodologias ágeis como SCRUM e KANBAN.
 
-<h3 align="left">Conecte comigo!</h3>
+<h4 align="left">Conecte comigo!</h4>
 
 <div align="left">
   <a href = "mailto:annep.valentim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" target="_blank"></a>
