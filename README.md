@@ -6,7 +6,10 @@ Me chamo Anne Caroline Pinho Valentim, sou graduada em Sistemas de Informação,
 
 Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift (SwiftUI + UIKit) e Kotlin, aplicação de arquiteturas como MVC e MVVM, uso de banco de dados locais com Room, gerenciamento de pacotes (Swift Package Manager + CocoaPods), e controle de versão com Git. Também possuo experiência com desenvolvimento web (Angular) e familiaridade com metodologias ágeis como SCRUM e KANBAN.
 
+<h3 align="left">Connect with me!</h3>
+
 <div align="left">
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:annep.valentim@gmail.com)
   <a href="https://www.linkedin.com/in/annepinho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
