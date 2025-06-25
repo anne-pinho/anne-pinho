@@ -4,8 +4,7 @@
 
 Me chamo Anne Caroline Pinho Valentim, sou graduada em Sistemas de Informação, atuo como desenvolvedora de software com foco em aplicações mobile nativas para Android e iOS. Tenho experiência com Kotlin, Java, Swift, SwiftUI e UIKit, além de projetos web utilizando Angular.
 
-Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift (SwiftUI + UIKit) e Kotlin, aplicação de arquiteturas como MVC e MVVM, uso de banco de dados locais com Room, gerenciamento de pacotes (Swift Package Manager + CocoaPods), e controle de versão com Git. Também possuo experiência com desenvolvimento web (Angular) e familiaridade com metodologias ágeis como SCRUM e KANBAN. 
-
+Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift (SwiftUI + UIKit) e Kotlin, aplicação de arquiteturas como MVC e MVVM, uso de banco de dados locais com Room, gerenciamento de pacotes (Swift Package Manager + CocoaPods), e controle de versão com Git. Também possuo experiência com desenvolvimento web (Angular) e familiaridade com metodologias ágeis como SCRUM e KANBAN.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/annepinho/" target="_blank">
@@ -16,7 +15,6 @@ Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 
 </div>
 
@@ -31,9 +29,11 @@ Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift 
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
  
@@ -43,7 +43,6 @@ Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift 
 </div>
 
 <br/>
-
 
 ### 📊 Estatísticas
 
