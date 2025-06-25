@@ -9,6 +9,7 @@ Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift 
 <h3 align="left">Connect with me!</h3>
 
 <div align="left">
+  <a href = "mailto:annep.valentim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" target="_blank"></a>
   <a href="https://www.linkedin.com/in/annepinho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
