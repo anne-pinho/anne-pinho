@@ -62,4 +62,6 @@ Minha bagagem técnica inclui o desenvolvimento de aplicativos utilizando Swift 
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/anne-pinho/anne-pinho/output/snake.svg" alt="Snake animation" />
+
 ###
