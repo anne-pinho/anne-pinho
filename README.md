@@ -49,6 +49,6 @@ Throughout my journey, I have participated in initiatives such as the Hefesto Pr
 
 <br clear="both">
 
-//<img src="https://raw.githubusercontent.com/anne-pinho/anne-pinho/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anne-pinho/anne-pinho/output/snake.svg" alt="Snake animation" />
 
 ###
